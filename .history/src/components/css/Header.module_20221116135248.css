@@ -1,0 +1,41 @@
+.header {
+  display: flex;
+}
+
+.menuBtn {
+  display: flex;
+  align-items: center;
+  border: none;
+  background-color: transparent;
+  font-size: 32px;
+  padding: 0;
+  margin: 10px 20px;
+  cursor: pointer;
+}
+
+.logoAndTitle {
+  display: flex;
+  align-items: center;
+  margin: 10px 20px;
+  cursor: pointer;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  font-size: 42px;
+}
+.title {
+  font-size: 30px;
+}
+
+.form {
+  display: flex;
+  align-items: center;
+  margin: 10px 20px;
+  margin-left: 100px;
+}
+.search {
+  width: 400px;
+  height: 40px;
+}

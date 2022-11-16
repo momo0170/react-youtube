@@ -1,0 +1,9 @@
+.header {
+  display: flex;
+}
+
+.menuBtn {
+  border: none;
+  background-color: transparent;
+  color: blue;
+}

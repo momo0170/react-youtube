@@ -1,0 +1,1032 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "WZpXA3uZOKMM_e-guj3_pdIiDzE",
+  "nextPageToken": "CB4QAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 30
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NFBMYLsZjU_Rm6kVeUkwhqNt5jE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wrvdttVso9M"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-13T13:43:55Z",
+        "channelId": "UCw2zOqd6hXsny79qDki_Z4w",
+        "title": "오버워치2 리그 최초 우승자, 세계 1등 선수의 소전은 우리와 뭐가 다를까? 비밀 꿀팁 공개까지 ㄷㄷ",
+        "description": "(20221113) 삐라의 오버워치2 유튜브채널입니다!! ♥삐라의 생방송(트위치) : https://www.twitch.tv/bbira ♥생방송 공지: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wrvdttVso9M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wrvdttVso9M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wrvdttVso9M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "삐라",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-13T13:43:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EE2L21dOPLdh-2XxZPDzZxDPRtc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "b-XpDX0if-8"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-04T08:53:16Z",
+        "channelId": "UCXAXCxTCCYYKsLJNzEvjqfw",
+        "title": "오버워치2 시작 전 꼭 봐야할 &#39;신규영웅, 리메이크 등&#39; 총정리!",
+        "description": "오버워치2 시작 전 꼭 봐야할 '신규영웅, 리메이크 등' 총정리! 오늘은 오버워치2 35명의 영웅 총정리 영상입니다! 배틀패스 80단계 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/b-XpDX0if-8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/b-XpDX0if-8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/b-XpDX0if-8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "나무늘보",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-04T08:53:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "skR7gboeihgzCx0MkOpF0pKezgw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZFdFX0huT7w"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-06T00:04:57Z",
+        "channelId": "UCXAXCxTCCYYKsLJNzEvjqfw",
+        "title": "신규 영웅 라마트라의 스킬 공개! 개사기 같은데??",
+        "description": "신규 영웅 라마트라의 스킬 공개! 개사기 같은데?? 오늘은 오버워치2 라마트라 스킬 소개 영상입니다! 라마트라 배경 이야기: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZFdFX0huT7w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZFdFX0huT7w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZFdFX0huT7w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "나무늘보",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-06T00:04:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6zP2BtV3nJ4U8Evka7uvMM-yOxY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DR_Y8GA6OqY"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-08T00:59:25Z",
+        "channelId": "UC-2wa6jvprl7hfCpvw0ULzg",
+        "title": "오버워치 2 단편 애니메이션 | &quot;키리코&quot;",
+        "description": "카네자카의 수호자, 키리코가 등장했습니다! 키리코는 꾀가 많고 날렵하며, 장난도 잘 칩니다. 성격은 태평해도 엄격한 도덕적 잣대를 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DR_Y8GA6OqY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DR_Y8GA6OqY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DR_Y8GA6OqY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "오버워치",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-08T00:59:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "R-P4I-hoO2YSozGDqT1Qht-gKWs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yKtk_CZVdyA"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-04T11:00:44Z",
+        "channelId": "UC7g2JNSc0SefzMTyc--Nn4w",
+        "title": "여기로 잡는 거 본 적 있어?",
+        "description": "생방송보기 ▷ https://www.twitch.tv/ansansniper 재밌게 보셨다면 좋아요,구독 부탁드립니다! #안산저격수 #오버워치2 #위도우 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yKtk_CZVdyA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yKtk_CZVdyA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yKtk_CZVdyA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "안산저격수 ANS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-04T11:00:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Q7boQ1sYEc0s_utzwebdZ_eRaPc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mB9IF7D9a78"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-04T08:57:10Z",
+        "channelId": "UC7isAyYFIeH87-Aoc4YSiDw",
+        "title": "오버워치 2 감도 찾는 법~",
+        "description": "오버워치 #감도 #트래킹 #줌감도 #바실리 #에임 #강의 00:00 인트로 00:29 1. 트래킹으로 찾는 이유 03:34 2. 감도 찾는법 11:54 3.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mB9IF7D9a78/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mB9IF7D9a78/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mB9IF7D9a78/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "바실리, 에임 아카데미",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-04T08:57:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UcLjtHCw2-ES6Id78l50gbtKZN0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_rRNY3bLZWo"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-03T09:40:15Z",
+        "channelId": "UCw2zOqd6hXsny79qDki_Z4w",
+        "title": "남탓충 라인원챔 적으로 만나서 평생 방벽 못들게 해킹 인성질하고 반응 보기 ㅋㅋㅋ ※사이다주의",
+        "description": "(20221103) 삐라의 오버워치2 유튜브채널입니다!! ♥삐라의 생방송(트위치) : https://www.twitch.tv/bbira ♥생방송 공지: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_rRNY3bLZWo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_rRNY3bLZWo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_rRNY3bLZWo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "삐라",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-03T09:40:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "97kSFTvvrOKw8qwPPArdyhtU2W0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IGAWmPDGHNk"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-13T06:32:14Z",
+        "channelId": "UCd4vEfDwg_kzVI-9Eq8sPHA",
+        "title": "포지션별 경쟁전 티어 점수 올리기 개꿀! 영웅 추천 가이드 [오버워치2]",
+        "description": "유튜브 구독 : https://goo.gl/12qn46 ☞ 트위치 : https://twitch.tv/arelogic ☞ 인스타그램 : https://www.instagram.com/arelogicast/ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IGAWmPDGHNk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IGAWmPDGHNk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IGAWmPDGHNk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "알로직",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-13T06:32:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CvE7Ge3uNIQolfkhyac4HYaoGRg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "m1KPvJYoY6o"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-06T13:11:44Z",
+        "channelId": "UCAJ-meoCh1TrPZ7La3UpPrw",
+        "title": "오버워치2 &#39;무료&#39;로 정식발매 됐습니다.",
+        "description": "게임정보 및 빅헤드정보 멤버십 가입하시면 감사합니다. https://bit.ly/2GBfExJ ※연락처 : bighead033@naver.com ※트위치방송국 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m1KPvJYoY6o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m1KPvJYoY6o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m1KPvJYoY6o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "빅헤드",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-06T13:11:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IW74xfl30mn9MQENvDz5xjNt9rs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rVMpyNWIgZE"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-05T01:39:08Z",
+        "channelId": "UC-2wa6jvprl7hfCpvw0ULzg",
+        "title": "라마트라 배경 이야기 | 오버워치 2",
+        "description": "널 섹터의 수장인 라마트라의 목표는 동료 옴닉들을 지키는 것입니다.... 수단과 방법을 가리지 않고서라도. 신규 돌격 영웅 라마트라는 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rVMpyNWIgZE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rVMpyNWIgZE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rVMpyNWIgZE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "오버워치",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-05T01:39:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "s5LWCQWiiJL1GzIPYQ6tufd6MRQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uteaBfQu1kY"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-05T09:00:26Z",
+        "channelId": "UCtt0Hg9MhraTkzWwNQpplHg",
+        "title": "나랑 키리코 루시우 하러 갈래?",
+        "description": "STREAM DATE : 221031 This is the official channel of Ryujehong 류제홍 공식 유튜브 채널입니다. 업로드 일정 : 본 영상(월,수, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uteaBfQu1kY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uteaBfQu1kY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uteaBfQu1kY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ryujehong",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-05T09:00:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "53ylHNjvQuMdPy5D33WZ-Vo_aww",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FNRr187lneY"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-02T11:06:39Z",
+        "channelId": "UCwlUB3goOsh4tpqZKIzUAbA",
+        "title": "오버워치2 랭커 구간에서 리퍼로 몰래 핵쓰는 유저 검거했습니다ㅋㅋ",
+        "description": "오버워치2#리퍼 리장타워, 오아시스 메이 플레이 트위치 생방송 : https://www.twitch.tv/yongsa98 디스코드 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FNRr187lneY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FNRr187lneY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FNRr187lneY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "용사98",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-02T11:06:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gWESj5iO74z3605pDZ5eZpEEDD8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "q08rFDQaw_U"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-06T03:00:20Z",
+        "channelId": "UCDbOXmGL7EkmOcnUb5Kki4A",
+        "title": "&quot;왜 내 둠피는 딜량이 안나올까?&quot; 깨달은 오버워치2 1시즌 둠피 운영법",
+        "description": "우클 캔슬하고 날라가서 근접공격 넣으면 로켓펀치임 ㅋ 트위치 생방 주소 https://www.twitch.tv/whdkfhs123 마우스 감도 로지텍 G1 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/q08rFDQaw_U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/q08rFDQaw_U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/q08rFDQaw_U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "아론 페이지",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-06T03:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u7S3EfA_pMabsaIhsaiKSoAtqgU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pKIJ-ohemxo"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-01T09:01:15Z",
+        "channelId": "UCtt0Hg9MhraTkzWwNQpplHg",
+        "title": "밥 먹고 있었는데 갑자기 100만원 후원이..",
+        "description": "STREAM DATE : 221030 This is the official channel of Ryujehong 류제홍 공식 유튜브 채널입니다. 업로드 일정 : 본 영상(월,수, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pKIJ-ohemxo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pKIJ-ohemxo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pKIJ-ohemxo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ryujehong",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-01T09:01:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "G7Hquoe-q6JXa6w-h9Axm9kOOHc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-OGTHlgFDFg"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-11T10:45:00Z",
+        "channelId": "UCcvKf8NxAw9i09hZw1MQPBQ",
+        "title": "⏱드디어 나온 오버워치 2! 갓겜인가.. 망겜인가.. [오버워치2 리뷰]",
+        "description": "드디어 나온 오버워치 2! 갓겜인가.. 망겜인가.. [오버워치2 리뷰] 영래기에서 다룬 주제는 [오버워치2] 입니다:) 재밌게 봐주세요~ #오버 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-OGTHlgFDFg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-OGTHlgFDFg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-OGTHlgFDFg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "영래기",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-11T10:45:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FUm8RBw1IElMab3jvE0xkZOq3vk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rIS-pAgNqfA"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-05T04:03:33Z",
+        "channelId": "UCLoGhS_8p-G_pzrkfgMi9NA",
+        "title": "오버워치2 스트리머 1대1 참교육하기^^ 1탄",
+        "description": "오버워치2 스트리머 1대1 참교육하기^^ 1탄 생방송 : https://www.twitch.tv/ddv1004 ⭐ 게임유튜브 : https://www.youtube.com/암흑 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rIS-pAgNqfA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rIS-pAgNqfA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rIS-pAgNqfA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "이녕",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-05T04:03:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "XB4CKDnvhuSZDO-1Vy3etG4SVv0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XGBMYqnuRVk"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-06T02:00:09Z",
+        "channelId": "UCppLE7C1TC4ovrGbRoTzsmg",
+        "title": "학살님 아니고 효튜브입니다",
+        "description": "오버워치 #겐지 #효튜브 오버워치 조준선 : 십자선에 1 4 4 100 100 2 0 오버워치 감도 : Dpi 800에 겐지 4.2 / 위도 3.5 (줌감도 36) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XGBMYqnuRVk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XGBMYqnuRVk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XGBMYqnuRVk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "효튜브",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-06T02:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "B8Nu1vsMx4T-jhNam1lB4K6ar0Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Lm_c3oX5IUY"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-28T10:39:24Z",
+        "channelId": "UCww3MeqGQnIatVvEr3pSjhA",
+        "title": "요즘 경쟁전 돌리기 전에 꼭 알아둬야할 것",
+        "description": "프로즈 #오버워치2 감도 600에 6.21.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Lm_c3oX5IUY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Lm_c3oX5IUY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Lm_c3oX5IUY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "프로즈",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-28T10:39:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MKZvfqLSBx2gC9aI5PwHw7wHXHs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "AMTHpnDcnTk"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-22T09:20:55Z",
+        "channelId": "UCbFLnCfOet-u_kFyA7uX-9Q",
+        "title": "안접은 사람도 모르는 오버워치2 팁 37가지",
+        "description": "오버워치2.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/AMTHpnDcnTk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/AMTHpnDcnTk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/AMTHpnDcnTk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "아이치ichi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-22T09:20:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fvMam1khAcrwgMlo54cQnfdyiHY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HWN-eHbwKPo"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-27T11:00:20Z",
+        "channelId": "UC7g2JNSc0SefzMTyc--Nn4w",
+        "title": "안산저격수 오버워치2 랭킹 첫공개",
+        "description": "생방송보기 ▷ https://www.twitch.tv/ansansniper 재밌게 보셨다면 좋아요,구독 부탁드립니다! #안산저격수 #위도우 #오버워치2 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HWN-eHbwKPo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HWN-eHbwKPo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HWN-eHbwKPo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "안산저격수 ANS",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-27T11:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_682y1Cwuv7WiF049D4vwro9GUM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9UbkAQ7wPcU"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-21T09:00:12Z",
+        "channelId": "UC8CIM3d3zDYMk-3T5aAz0yw",
+        "title": "혜안 오버워치2 처음 해봅니다",
+        "description": "돌아온 고급시계 [업로드] 금,토,일,월 [문의메일] zxcv34276@gmail.com [인스타그램] @hxxax_ #혜안 #오버워치2 본 음성은 인공 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9UbkAQ7wPcU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9UbkAQ7wPcU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9UbkAQ7wPcU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "혜안",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-21T09:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hM_PZxdfE-6gOgimCIoPDwDINrs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_GCJr44jqQo"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-11T07:00:21Z",
+        "channelId": "UCta_NRwnsUaew0t3VNxBNyg",
+        "title": "오버워치2 하이라이트 콘테스트ㅋㅋㅋㅋ",
+        "description": "김재원 #오버워치2 #콘테스트 채널에 가입하여 혜택을 누려보세요.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_GCJr44jqQo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_GCJr44jqQo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_GCJr44jqQo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "김재원의 즐거운 세상",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-11T07:00:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FqiZKKerD8oPe7Gbte4_9X4wv_o",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QB_cQ4izdeU"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-21T04:30:06Z",
+        "channelId": "UC5gp0nGTdJ56YKzI40v0cRg",
+        "title": "이적하자마자 24시간 노방종 미션 하는 사람 ㅣ 오버워치2 이태준",
+        "description": "방송일자 [2022. 10. 13] · LEETAEJUN Live Broadcast :https://bj.afreecatv.com/atropos7o7 · 광고협찬/영상 문의 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QB_cQ4izdeU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QB_cQ4izdeU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QB_cQ4izdeU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "이태준",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-21T04:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6qO04QQXlsi8J22cUbsRTRgO20U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KMX4FfGaBDg"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-30T09:32:38Z",
+        "channelId": "UCUbOogiD-4PKDqaJfSOTC0g",
+        "title": "오버워치2 겐지 6년동안 플레이해온 장인의 꿀팁 대방출 ㅋㅋㅋ 효튜브 장인초대석 [테스터훈]",
+        "description": "채널에 가입하여 혜택을 누려보세요. https://www.youtube.com/channel/UCUbOogiD-4PKDqaJfSOTC0g/join 테스터훈 인스타 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KMX4FfGaBDg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KMX4FfGaBDg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KMX4FfGaBDg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "테스터훈 TesterHoon",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-30T09:32:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qpGjKR2zhbDWk_c9n9Hm5SqOqkY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PCTAQj4-NAg"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-15T10:00:14Z",
+        "channelId": "UCNzcxCN_Hh_lu5RCSFXKgGQ",
+        "title": "&quot;출시하자마자 FPS 1위&quot; 오버워치2를 다른게임이 절대 따라할 수 없는 이유",
+        "description": "김블루의 숨겨진 혜택이 넘치는 사탄클럽가입하기!! : https://www.youtube.com/channel/UCNzcxCN_Hh_lu5RCSFXKgGQ/join ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PCTAQj4-NAg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PCTAQj4-NAg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PCTAQj4-NAg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "악동 김블루",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-15T10:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "FrkoJ7WYqDU_KhjsUX14JLUa8Pw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zw9K_bTpQ68"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-23T10:30:30Z",
+        "channelId": "UC5gp0nGTdJ56YKzI40v0cRg",
+        "title": "역으로 핵 정치하는 핵쟁이;ㅣ오버워치2 이태준",
+        "description": "방송일자 [2022. 10. 17] · LEETAEJUN Live Broadcast :https://bj.afreecatv.com/atropos7o7 · 광고협찬/영상 문의 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zw9K_bTpQ68/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zw9K_bTpQ68/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zw9K_bTpQ68/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "이태준",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-23T10:30:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wGYz-HD9zwtkJSUdC90jsO6jfNk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vbi9CvO7_nI"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-03T07:00:17Z",
+        "channelId": "UCta_NRwnsUaew0t3VNxBNyg",
+        "title": "이 오버워치 유저를 기억하십니까?",
+        "description": "김재원 #오버워치2 데디손 채널에 가입하여 혜택을 누려보세요.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vbi9CvO7_nI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vbi9CvO7_nI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vbi9CvO7_nI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "김재원의 즐거운 세상",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-03T07:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zCEUJR6kyD49rLYwfTgwngY8IUc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "77n120t8Q0E"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-04T05:48:07Z",
+        "channelId": "UCDbOXmGL7EkmOcnUb5Kki4A",
+        "title": "졸라 약한 둠피 또 버프 예정! 다 뒤졌다 ㅋㅋ [오버워치2]",
+        "description": "업데이트 안해줘서 버프 스택만 계속 쌓이는 중.. 빨리 스킬 다 버프해줘!! 트위치 생방 주소 https://www.twitch.tv/whdkfhs123 마우스 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/77n120t8Q0E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/77n120t8Q0E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/77n120t8Q0E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "아론 페이지",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-04T05:48:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sa98dC-9Xitklh3u4ckqbYK_LsU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "h7vIQDoI9Mk"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-04T08:00:29Z",
+        "channelId": "UCeq0Nrch5KY3VrZyn_BB32g",
+        "title": "리그에서 왜 윈스턴 하는지 알겠네! [오버워치 쪼낙]",
+        "description": "매일 새로운 편집 영상이 업로드 됩니다! 방송 날짜 : 2022.11.02 쪼튜브 영상 피드백, 보고싶은 컨텐츠 등은 아래의 편집자 메일로 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/h7vIQDoI9Mk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/h7vIQDoI9Mk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/h7vIQDoI9Mk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "쪼낙 JJONAK",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-04T08:00:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "scd8K4ffFcc_xR8GSgtkAIv5Seg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xwkoQOK3kgE"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-19T09:11:37Z",
+        "channelId": "UCR1ctqL11HoxQkbSkoUAYeA",
+        "title": "망한다던 오버워치 흥한 이유 [오버워치2 리뷰]",
+        "description": "망한다던 사람들 어디갔나요..? #블리자드 #리뷰 #신작게임.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xwkoQOK3kgE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xwkoQOK3kgE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xwkoQOK3kgE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "휘재TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-19T09:11:37Z"
+      }
+    }
+  ]
+}

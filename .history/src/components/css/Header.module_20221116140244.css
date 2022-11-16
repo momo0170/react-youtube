@@ -1,0 +1,54 @@
+.header {
+  display: flex;
+}
+
+.menuBtn {
+  display: flex;
+  align-items: center;
+  border: none;
+  background-color: transparent;
+  font-size: 32px;
+  padding: 0;
+  margin: 10px 20px;
+  cursor: pointer;
+}
+
+.logoAndTitle {
+  display: flex;
+  align-items: center;
+  margin: 10px 20px;
+  cursor: pointer;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  font-size: 42px;
+  color: red;
+}
+.title {
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.form {
+  display: flex;
+  align-items: center;
+  margin: 10px 20px;
+  margin-left: 200px;
+}
+.search {
+  width: 400px;
+  height: 40px;
+  padding-left: 10px;
+}
+.search::placeholder {
+  font-size: 16px;
+}
+.serach:focus {
+  border: 1px solid red;
+}
+.searchBtn {
+  border: 0;
+  height: 100%;
+}

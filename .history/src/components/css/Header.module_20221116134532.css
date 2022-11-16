@@ -1,0 +1,26 @@
+.header {
+  display: flex;
+}
+
+.menuBtn {
+  border: none;
+  background-color: transparent;
+  font-size: 32px;
+  padding: 0;
+  margin: 10px 20px;
+}
+
+.logoAndTitle {
+  display: flex;
+  align-items: center;
+  margin: 10px 20px;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  font-size: 40px;
+}
+.title {
+  font-size: 32px;
+}
