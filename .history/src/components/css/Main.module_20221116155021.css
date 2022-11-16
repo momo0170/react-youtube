@@ -1,0 +1,8 @@
+.main {
+  display: grid;
+  grid-template-columns: 400px 150px 150px;
+}
+
+.video {
+  list-style: none;
+}

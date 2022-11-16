@@ -8,8 +8,8 @@ export default function Video({ video }) {
   return (
     <>
       <img src={url} alt="썸네일" className={styles.thumbnail} />
-      <span className={styles.title}>{title}</span>
-      <span className={styles.channelTitle}>{channelTitle}</span>
+      <span>{title}</span>
+      <span>{channelTitle}</span>
     </>
   );
 }

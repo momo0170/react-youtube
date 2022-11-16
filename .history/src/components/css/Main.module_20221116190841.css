@@ -1,0 +1,11 @@
+.main {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  margin: 20px 40px;
+  gap: 0px 30px;
+}
+
+.video {
+  list-style: none;
+  background-color: antiquewhite;
+}

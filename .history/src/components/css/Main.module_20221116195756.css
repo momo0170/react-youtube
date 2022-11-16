@@ -1,0 +1,15 @@
+.main {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 320px));
+  grid-template-rows: repeat(30, 300px);
+  justify-content: space-between;
+  margin: 20px 40px;
+  gap: 30px 30px;
+}
+
+.video {
+  list-style: none;
+  /* background-color: antiquewhite; */
+  border-radius: 10px;
+  cursor: pointer;
+}

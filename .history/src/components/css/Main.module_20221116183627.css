@@ -1,0 +1,11 @@
+.main {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  margin: 20px 40px;
+}
+
+.video {
+  list-style: none;
+  background-color: antiquewhite;
+  column-gap: 30px;
+}
