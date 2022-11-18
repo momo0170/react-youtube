@@ -6,7 +6,10 @@
   margin: 20px 40px;
   gap: 30px 20px;
 }
-
+.main a {
+  text-decoration: none;
+  color: black;
+}
 .video {
   list-style: none;
   /* background-color: antiquewhite; */

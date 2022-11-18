@@ -1,0 +1,11 @@
+.contents {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+}
+
+.thumbnail {
+  width: 192px;
+  height: 108px;
+  border-radius: 10px;
+}

@@ -1,0 +1,9 @@
+.main {
+  display: flex;
+}
+.player {
+  flex: 1 1 60%;
+}
+.relatedVideos {
+  flex: 1 1 40%;
+}

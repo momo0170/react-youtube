@@ -1,0 +1,10 @@
+.main {
+  display: flex;
+  margin: 10px;
+}
+.player {
+  flex: 1 1 65%;
+}
+.relatedVideos {
+  flex: 1 1 45%;
+}
