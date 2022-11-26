@@ -1,0 +1,32 @@
+.title {
+  font-size: 20px;
+  font-weight: 600;
+}
+.channelMetadata {
+  display: flex;
+  align-items: center;
+  margin: 10px 0;
+}
+.channelImg {
+  border-radius: 50%;
+  width: 50px;
+}
+.frame {
+  display: flex;
+  flex-direction: column;
+  margin: 0 20px;
+}
+.channelTitle {
+  font-weight: 500;
+}
+.subscribers {
+  font-size: 14px;
+  color: var(--title-font-color);
+}
+.subBtn {
+  border: 0;
+  background-color: black;
+  color: white;
+  padding: 10px;
+  border-radius: 20px;
+}

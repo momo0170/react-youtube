@@ -1,0 +1,20 @@
+.contents {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+}
+
+.thumbnail {
+  width: 192px;
+  height: 108px;
+  border-radius: 10px;
+}
+
+.title {
+  font-size: 32px
+  font-weight: 500;
+}
+.channelTitle {
+  font-size: 13px;
+  color: var(--title-font-color);
+}
