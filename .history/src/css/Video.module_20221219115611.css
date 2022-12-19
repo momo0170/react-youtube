@@ -1,0 +1,48 @@
+.thumbnail {
+  width: 100%;
+  border-radius: 10px;
+}
+.data {
+  display: flex;
+  margin-top: 10px;
+}
+.channelThumb {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-right: 20px;
+}
+
+.title,
+.channelTitle {
+  margin: 5px 0;
+}
+.title {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  -webkit-line-clamp: 2;
+  color: black;
+}
+.channelTitle,
+.uploadTime,
+.viewCount {
+  color: var(--title-font-color);
+  font-size: 13px;
+}
+.uploadTime {
+  padding-left: 10px;
+}
+
+/* relative stylle*/
+
+.relThumbnail {
+  flex: 1 1 40%;
+  width: 240px;
+  height: 135px;
+  border-radius: 10px;
+}
+.relData {
+  flex: 1 1 40%;
+}

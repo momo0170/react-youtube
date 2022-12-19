@@ -1,0 +1,19 @@
+.thumbnail {
+  width: 100%;
+  border-radius: 10px;
+}
+.title,
+.channelTitle {
+  margin: 5px 0;
+}
+.title {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  -webkit-line-clamp: 2;
+}
+.channelTitle {
+  color: var(--title-font-color);
+  font-size: 13px;
+}

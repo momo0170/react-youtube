@@ -1,0 +1,25 @@
+.main {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 320px));
+  grid-template-rows: repeat(30, 300px);
+  justify-content: space-between;
+  margin: 20px 40px;
+  gap: 30px 20px;
+}
+.main a {
+  text-decoration: none;
+  color: black;
+}
+.video {
+  list-style: none;
+  border-radius: 10px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}

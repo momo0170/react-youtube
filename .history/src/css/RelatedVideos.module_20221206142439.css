@@ -1,0 +1,32 @@
+.contents {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+}
+
+.thumbnail {
+  width: 192px;
+  height: 108px;
+  border-radius: 10px;
+}
+
+.title {
+  font-weight: 500;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  -webkit-line-clamp: 2;
+  color: black;
+}
+.channelTitle {
+  font-size: 13px;
+  color: var(--title-font-color);
+}
+.informations {
+  color: var(--title-font-color);
+  font-size: 13px;
+}
+.uploadTime {
+  margin-left: 10px;
+}

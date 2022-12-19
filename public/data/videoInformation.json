@@ -1,0 +1,73 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "Tz5YSb4XxrmZAvOsQJTA7APZr-0",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "BtDZz7LJx2H3eGkSR0pPmQJH1zE",
+      "id": "gMsR4PzoSpc",
+      "snippet": {
+        "publishedAt": "2022-10-24T03:12:00Z",
+        "channelId": "UCaMoop6hzQfH0butf3M6sAA",
+        "title": "일본 도쿄 브이로그 | 일본 로컬 이자카야에서 퇴근하고 불금. 신주쿠 낚시 이자카야가고 키치죠지에서 쇼핑하는 주말 (三鷹のやまちゃん미타카노야마쨩、喫茶タイムス、ざうお자우오)",
+        "description": "✔Edit : VLLO \n✔Opening Music : Joe Hisashi - Summer (Latin ver.) \n   ※출처 : 박터틀의 음악노트(유튜브채널)\n    https://youtu.be/GqmSfl0N5_8\n    (박터틀님께 개인적으로 허락을 받고 사용하는 음악입니다)\n✔Background Music : Epidemic Sound \n\n-\n\n안녕하세요 이노잼입니다!\n너무너무 오랜만에 찾아왔죠,,,😭\n영상 오랫동안 기다리게해서 죄송합니다ㅜㅜㅜ\n\n9월말부터 10월까지 회사일이 정말 정말 바빴어요ㅠㅠ\n거의 매일 밤10시에서 11시까지 일하고 퇴근하고\n재택근무하면 밤12시까지 일하는 날들이 이어져서\n정말 편집할 틈이 조금도 없었습니다 ㅜㅜ\n\n요즘이 올해 중 가장 바쁜 나날들이었는데요\n엄청 바쁜게 한차례 지나가서 다시 열심히 편집해서 올리도록 하겠습니다!!\n\n기다려주셔서 감사하고 이번 영상도 재밌게 시청해주세요!\n\n※모더나 접종을 완료 한 상태에서 촬영된 외출입니다.\n※외출시에는 마스크착용, 손소독등의 개인 방역수칙을 지켜가며 외출했습니다.\n\n#일본일상브이로그\n#도쿄일상브이로그\n#일본브이로그\n#도쿄브이로그\n#직장인브이로그",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gMsR4PzoSpc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gMsR4PzoSpc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gMsR4PzoSpc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gMsR4PzoSpc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gMsR4PzoSpc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이노잼 ENOJAM",
+        "tags": [
+          "일본 브이로그",
+          "도쿄 브이로그",
+          "일본 일상 브이로그",
+          "도쿄 일상 브이로그",
+          "일본 도쿄 브이로그",
+          "Tokyo Vlog",
+          "VLOG",
+          "브이로그",
+          "직장인 브이로그"
+        ],
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "일본 도쿄 브이로그 | 일본 로컬 이자카야에서 퇴근하고 불금. 신주쿠 낚시 이자카야가고 키치죠지에서 쇼핑하는 주말 (三鷹のやまちゃん미타카노야마쨩、喫茶タイムス、ざうお자우오)",
+          "description": "✔Edit : VLLO \n✔Opening Music : Joe Hisashi - Summer (Latin ver.) \n   ※출처 : 박터틀의 음악노트(유튜브채널)\n    https://youtu.be/GqmSfl0N5_8\n    (박터틀님께 개인적으로 허락을 받고 사용하는 음악입니다)\n✔Background Music : Epidemic Sound \n\n-\n\n안녕하세요 이노잼입니다!\n너무너무 오랜만에 찾아왔죠,,,😭\n영상 오랫동안 기다리게해서 죄송합니다ㅜㅜㅜ\n\n9월말부터 10월까지 회사일이 정말 정말 바빴어요ㅠㅠ\n거의 매일 밤10시에서 11시까지 일하고 퇴근하고\n재택근무하면 밤12시까지 일하는 날들이 이어져서\n정말 편집할 틈이 조금도 없었습니다 ㅜㅜ\n\n요즘이 올해 중 가장 바쁜 나날들이었는데요\n엄청 바쁜게 한차례 지나가서 다시 열심히 편집해서 올리도록 하겠습니다!!\n\n기다려주셔서 감사하고 이번 영상도 재밌게 시청해주세요!\n\n※모더나 접종을 완료 한 상태에서 촬영된 외출입니다.\n※외출시에는 마스크착용, 손소독등의 개인 방역수칙을 지켜가며 외출했습니다.\n\n#일본일상브이로그\n#도쿄일상브이로그\n#일본브이로그\n#도쿄브이로그\n#직장인브이로그"
+        },
+        "defaultAudioLanguage": "ja"
+      },
+      "statistics": {
+        "viewCount": "129133",
+        "likeCount": "2125",
+        "favoriteCount": "0",
+        "commentCount": "131"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}

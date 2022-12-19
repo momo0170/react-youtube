@@ -1,9 +1,0 @@
-.contents {
-  display: flex;
-  flex-direction: column;
-}
-
-.thumbnails {
-  width: 160px;
-  height: 90px;
-}
