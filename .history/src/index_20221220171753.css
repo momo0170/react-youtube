@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Gamja+Flower:400');
+
+/* 라이트 모드 */
+:root {
+  --white-color: white;
+  --background-color: #fdfdfd;
+  --divide-line: 1px solid #ececec;
+  --font-color: #303030;
+  --icon-color: #303030;
+
+  /* 검색 창 */
+  --input-hover-color: #e5e5e5;
+  --input-background-color: #eeeeee;
+  --input-focus-color: #fafafa;
+
+  /* 검색 버튼 */
+  --search-btn-color: #eeeeee;
+  --search-hover-color: #d2d2d2;
+
+  /* 채널 이름, 조회 수 */
+  --channel-font-color: #6d6d6d;
+
+  /* 제목 */
+  --title-font-color: black;
+
+  /* 구독 버튼 */
+  --sub-btn-color: black;
+}
+
+/* 다크모드 */
+html.dark {
+  --black-color: black;
+  --background-color: #000000;
+  --divide-line: 1px solid #6d6d6d;
+  --font-color: #fafafa;
+  --icon-color: #fafafa;
+
+  /* 검색 버튼 */
+  --search-btn-color: #424242;
+  --search-btn-hover-color: #484848;
+
+  /* 검색 창 */
+  --input-hover-color: #484848;
+  --input-focus-color: #212121;
+  --input-background-color: #212121;
+
+  /* 제목 */
+  --title-font-color: #fafafa;
+}
+body {
+  margin: 0;
+  /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; */
+}
+/* 
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */

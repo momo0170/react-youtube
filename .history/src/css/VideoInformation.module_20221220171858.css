@@ -1,0 +1,48 @@
+.title {
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--title-font-color);
+}
+.channelMetadata {
+  display: flex;
+  align-items: center;
+  margin: 10px 0;
+}
+.channelImg {
+  border-radius: 50%;
+  width: 50px;
+}
+.frame {
+  display: flex;
+  flex-direction: column;
+  margin: 0 20px;
+}
+.channelTitle {
+  font-weight: 500;
+  color: var(--title-font-color);
+}
+.subscribers {
+  font-size: 14px;
+  color: var(--channel-font-color);
+}
+.subBtn {
+  border: 0;
+  background-color: var(--sub-btn-color);
+  color: white;
+  padding: 10px 20px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.informations {
+  display: flex;
+  flex-direction: column;
+}
+.viewCount {
+  font-weight: 600;
+  margin-bottom: 5px;
+}
+.uploadTime {
+  margin-left: 10px;
+  font-weight: 600;
+}

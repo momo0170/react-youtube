@@ -1,0 +1,38 @@
+.main {
+  display: flex;
+  margin: 20px;
+}
+.frame {
+  flex: 1 1 65%;
+  margin-right: 2vw;
+}
+.player {
+  position: relative;
+  padding-top: 56.25%;
+  width: 100%;
+  height: 0;
+}
+.player iframe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+.informations {
+  margin-top: 10px;
+}
+.relatedVideos {
+  flex: 1 1 25%;
+  max-width: 20vw;
+}
+
+/* 1080px 미만 */
+@media screen and (max-width: 1080px) {
+  .main {
+    flex-direction: column;
+  }
+  .relatedVideos {
+    margin-top: 20px;
+  }
+}

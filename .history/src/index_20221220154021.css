@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Gamja+Flower:400');
+
+:root {
+  --white-color: white;
+  --background-color: #fdfdfd
+  --divide-line: 1px solid #ececec;
+  --font-color: #303030;
+  --icon-color: #303030;
+
+  --input-hover-color: #e5e5e5;
+  --input-background-color: #eeeeee;
+
+  --title-font-color: #808080;
+  --search-btn-color: #e0e0e0;
+}
+html.dark {
+  --black-color: black;
+  --divide-line: 1px solid gray;
+  --font-color: white;
+  --icon-color: gray;
+}
+body {
+  margin: 0;
+  /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; */
+}
+/* 
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
