@@ -5,11 +5,11 @@ import App from './App';
 import VideoDetail from './routes/VideoDetail';
 import { RouterProvider, createBrowserRouter } from 'react-router-dom';
 import Videos from './components/Videos';
-import VideoSearch from './components/VideoSearch';
+import { DarkModeProvider } from './context/DarkModeContext';
 
 const router = createBrowserRouter([
   {
-    path: '/',
+    path: '/react-youtube',
     element: <App />,
     children: [
       {
@@ -17,8 +17,12 @@ const router = createBrowserRouter([
         element: <Videos />,
       },
       {
+        path: 'videos',
+        element: <Videos />,
+      },
+      {
         path: 'videos/:keyword',
-        element: <VideoSearch />,
+        element: <Videos />,
       },
       {
         path: 'videos/watch/:videoId',
@@ -28,4 +32,8 @@ const router = createBrowserRouter([
   },
 ]);
 const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(<RouterProvider router={router} />);
+root.render(
+  <DarkModeProvider>
+    <RouterProvider router={router} />
+  </DarkModeProvider>
+);

@@ -5,7 +5,7 @@ import App from './App';
 import VideoDetail from './routes/VideoDetail';
 import { RouterProvider, createBrowserRouter } from 'react-router-dom';
 import Videos from './components/Videos';
-import VideoSearch from './components/VideoSearch';
+import { DarkModeProvider } from './context/DarkModeContext';
 
 const router = createBrowserRouter([
   {
@@ -17,15 +17,23 @@ const router = createBrowserRouter([
         element: <Videos />,
       },
       {
-        path: 'videos/:keyword',
-        element: <VideoSearch />,
+        path: 'videos',
+        element: <Videos />,
       },
       {
-        path: 'watch/:videoId',
+        path: 'videos/:keyword',
+        element: <Videos />,
+      },
+      {
+        path: 'videos/watch/:videoId',
         element: <VideoDetail />,
       },
     ],
   },
 ]);
 const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(<RouterProvider router={router} />);
+root.render(
+  <DarkModeProvider>
+    <RouterProvider router={router} />
+  </DarkModeProvider>
+);
