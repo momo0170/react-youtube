@@ -9,7 +9,6 @@
     "@testing-library/user-event": "^13.2.1",
     "axios": "^1.2.1",
     "dayjs": "^1.11.6",
-    "gh-pages": "^4.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.6.0",
@@ -21,8 +20,6 @@
     "web-vitals": "^2.1.0"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -46,5 +43,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://momo0170.github.io/react-youtube/"
+  "homepage": "https://momo0170.github.io/react-youtube"
 }
