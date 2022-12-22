@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/react-youtube/static/css/main.4fccecdc.css",
+    "main.js": "/react-youtube/static/js/main.1a90aa4f.js",
+    "index.html": "/react-youtube/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.4fccecdc.css",
+    "static/js/main.1a90aa4f.js"
+  ]
+}

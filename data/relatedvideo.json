@@ -1,0 +1,843 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "0BXJyJdJuV9iqpkDgwh-MLz0tu4",
+  "nextPageToken": "CBQQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 130,
+    "resultsPerPage": 20
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3Fs8gR_vHgOICUL9TabqTaW9dEc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "84J8yBSl-5A"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-17T02:08:07Z",
+        "channelId": "UC4P7F8qenDo1O_5NvgBb_cg",
+        "title": "전판에 만난게 홍구인지 모르고 ... '핵유저'라고 생각하는 상대? ㅋㅋㅋㅋㅋ",
+        "description": "스타크래프트 저그 전프로 홍구의 공식 스타채널입니다^^\n#홍구 #공방 #핵유저 #참교육 #스타 #엽기전략\n\n✌구독과 좋아요는 저희에게 큰 힘이 됩니다!\n구독 :: https://www.youtube.com/channel/UC4P7...\n\n💌각종 문의는? dpfgc3@nate.com\n💐아프리카 방송국 :: http://afreecatv.com/dpfgc3\n\n✨시청해주셔서 감사합니다!\n\n=============================================================",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/84J8yBSl-5A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/84J8yBSl-5A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/84J8yBSl-5A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/84J8yBSl-5A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/84J8yBSl-5A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "발스타홍구",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-17T02:08:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RiPvhh1YYPBHXvp7xIFikeAfmO0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ij_6sw5tEEw"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-31T11:03:27Z",
+        "channelId": "UCDbOXmGL7EkmOcnUb5Kki4A",
+        "title": "탱커의 신 게구리님과 맞 탱커전 했습니다.. [오버워치2]",
+        "description": "드디어 이겼다,\n썸네일은 하우카우의 불법영업소에서 불법으로 가져옴\n트위치 생방 주소 https://www.twitch.tv/whdkfhs123 \n\n\n마우스 감도\n로지텍 G1 마우스,  인게임 6.7\n로지텍 G304 마우스 1000DPI.\n\n\n조준선\n정확도 표시 : 비활성화\n색상 :녹색\n두께 : 1\n십자선 길이 : 15\n중앙 공간 : 11\n불투명도 : 70\n외곽선 불투명도 : 50\n점크기 : 2\n점 불투명도 : 0\n\n\n#게구리 #둠피탱커 #탱커장인 #적폐자리야 #둠피장인 #프로탱커",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ij_6sw5tEEw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ij_6sw5tEEw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ij_6sw5tEEw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ij_6sw5tEEw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ij_6sw5tEEw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아론 페이지",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-31T11:03:27Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Dhgs0CkRjd0EJgu3CBkeH2r8Hr0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uXTZHReh52s"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-03T02:23:09Z",
+        "channelId": "UCw2zOqd6hXsny79qDki_Z4w",
+        "title": "신캐 정커퀸만 해킹 인성질하고 반응 보기 ㅋㅋㅋㅋㅋ",
+        "description": "(20220703)\n삐라의 오버워치 및 종합게임 유튜브채널입니다!!\n♥삐라의 생방송(트위치) : https://www.twitch.tv/bbira\n♥생방송 공지: https://cafe.daum.net/BBIRA\n---------------------------------------------------------------------------------------------------------\n피드백영상&광고문의는 이메일으로\n이메일: yso2949@gmail.com\n\n#오버워치2 #솜브라 #정커퀸",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uXTZHReh52s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uXTZHReh52s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uXTZHReh52s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/uXTZHReh52s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/uXTZHReh52s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "삐라",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-03T02:23:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dEQM_tmQ5S2MqoSmU5DpllnVXT4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BitjdxX8Sao"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-16T17:39:59Z",
+        "channelId": "UC-OXJ3d4LToJEXLonxlgXmQ",
+        "title": "[오버워치 2] 팀에 위도우메이커 필요한 이유 ''ANS'' | 오버워치 2 매드무비",
+        "description": "[오버워치 2] 팀에 위도우메이커 필요한 이유 ''ANS'' | 오버워치 2 매드무비▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n► Videos Clip Source - Special Thank :\nhttps://www.twitch.tv/ansansniper\n✔  Video Edited By : 오버워치 X Team\n(If there was mistake in credits, or you want something more, then contact me via email : latinaseddon4307@gmail.com )\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\n\n◆Overwatch footage with permission by Blizzard Entertainment:\nhttp://us.blizzard.com/en-us/company/legal/videopolicy.html\n◆Everything is licensed under Creative Commons: By Attribution 4.0\nhttps://creativecommons.org/licenses/by/4.0/\n\n►►Subscribe for more video's : https://goo.gl/dH9arV\nFollow us on :\n► Twitter : https://twitter.com/KoreaOverWatchh\n► G+ : https://goo.gl/zAziHP\n★ Contact me : Email : latinaseddon4307@gmail.com\n\n\n\n--- Thank for watching! ---",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BitjdxX8Sao/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BitjdxX8Sao/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BitjdxX8Sao/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BitjdxX8Sao/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BitjdxX8Sao/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "오버워치 2 X - Overwatch 2 Montage",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-16T17:39:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6HRuSSmXzINPpSDLY0KuFFcLIHI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4qD-fW5-KWI"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-17T01:16:50Z",
+        "channelId": "UCG2HBkS8IO1N_GI_er5TnoQ",
+        "title": "중국인 악질유저 팀밴하고 줘패버리기",
+        "description": "📌오버워치 경쟁전 라펠 유튜브\n😍구독과 좋아요 부탁드립니다!\n\n🚩트위치｜https://www.twitch.tv/jun_march30\n🚩디스코드｜https://discord.gg/4KD4Qw5X5n\n🚩인스타그램｜https://www.instagram.com/jun_march30\nㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ\n🔷모니터: BenQ Zowie XL2740 240Hz\n🔷마우스: Logitech G903 (4 sens, 1000 dpi)\n🔷키보드: Corsair K70 RGB\n🔷마우스패드: Logitech G640\n🔷CPU: Intel Core i9-12900K @ 3.2GHz\n🔷GPU: NVIDIA GeForce RTX 2070\n🔷RAM: 32GB\n\n\n아나 젠야타 바티스트 모이라 메르시 루시우 키리코 아나강의 서브힐러 서브힐러강의 섭힐강의 브론즈 실버 골드 플레 다이아 마스터 그랜드마스터 그마 랭커 서브힐러 섭힐 수면총 뽕 뽕겐지 뽕스턴 뽕재움 나노강화제 나노 초월 융화 불사 비트 슈점 힐밴 힐밴각 조화 부조화 아나 조준선 감도 줌감도 오버워치리그 프로게이머 전프로게이머 리거 전리거 밴쿠버 타이탄즈 휴스턴 아웃로즈 댈러스 퓨얼 트위치 스트리머 #오버워치2 #키리코 #라펠",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4qD-fW5-KWI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4qD-fW5-KWI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4qD-fW5-KWI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4qD-fW5-KWI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4qD-fW5-KWI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "라펠",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-17T01:16:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lHsihWZaeCDFBTCsGdn8dHiNl6M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "i_zAm5upm8A"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-17T03:31:14Z",
+        "channelId": "UCpqY-U9kgFgQPCC6HXfVZkQ",
+        "title": "콜오브듀티 워존2 미친 긴장감의 짜릿한 첫 승리... - 배틀로얄 솔로 무편집 풀버전",
+        "description": "#콜오브듀티 #워존2 #FPS\n\nhttp://www.twitch.tv/v0231 트위치 공공이삼일 📺\n\nhttps://www.instagram.com/v0231/?hl=ko 인스타 😎\n\nhttps://discord.gg/qRVCRsgUGc 공지 및 잡담 디스코드 🏢\n\n문의 00231@sandboxnetwork.net\n서울특별시 용산구 한강로동 서빙고로 17. 30층 샌드박스네트워크 \"00231\"\n\n\n게임용 컴퓨터 사양\n인텔 코어 i9-10세대 10900KF\nMSI MPG Z490 게이밍 엣지 WIFI\nG.SKILL DDR4 32G PC4-25600 CL14 TRIDENT Z 16GX2\nASUS TUF GAMING RTX 3080 O10G OC D6X 10GB\nCOUGAR GEX 850 80PLUS GOLD Full Modular\n\n모니터 게임용 xl2546k, 송출용 ex2510s\n마우스 - 스틸시리즈 프라임 미니\n키보드 - 레오폴드 FC750R 적축\n헤드셋 - 스틸시리즈 노바 프로 무선\n패    드 - 스틸시리즈 퀵헤비\n\n모든 영상은 가시성을 높이기 위해 편집 과정에서 밝기와 채도가 올라간 상태입니다\n게임에서 제공하는 것 외의 다른 프로그램과 필터는 일절 사용하지 않습니다\nBGM  Welcome to Planet Urf  - League of Legends \nhttps://youtu.be/qYIiy03eGE0",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i_zAm5upm8A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i_zAm5upm8A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i_zAm5upm8A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/i_zAm5upm8A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/i_zAm5upm8A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "00231",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-17T03:31:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8I4gUiXJbXCn23g3hy3zynQ0OvY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "v3qyV3cZMFY"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-25T11:10:39Z",
+        "channelId": "UCw2zOqd6hXsny79qDki_Z4w",
+        "title": "겐지 용검 평생 못꺼내게 해킹 인성질 ㅋㅋㅋㅋ 키보드 뿌셨을듯 ㄹㅇ",
+        "description": "(20221025)\n삐라의 오버워치2 유튜브채널입니다!!\n♥삐라의 생방송(트위치) : https://www.twitch.tv/bbira\n♥생방송 공지: https://cafe.daum.net/BBIRA\n---------------------------------------------------------------------------------------------------------\n피드백영상&광고문의는 이메일으로\n이메일: yso2949@gmail.com\n\n#오버워치2 #해킹인성질 #겐지눙물",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/v3qyV3cZMFY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/v3qyV3cZMFY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/v3qyV3cZMFY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/v3qyV3cZMFY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/v3qyV3cZMFY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "삐라",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-25T11:10:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BHHMEH83hfURNBec2dsPMOQHMCk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6tNZDVwI1KY"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-14T11:15:39Z",
+        "channelId": "UCXAXCxTCCYYKsLJNzEvjqfw",
+        "title": "오버워치2에서 가장 강력한 콤보는 무엇일까?! *콤보 총정리",
+        "description": "오버워치2에서 가장 강력한 콤보는 무엇일까?! *콤보 총정리\n오늘은 오버워치2 실험 영상입니다!\n오버워치2 최고의 스킬은?!: https://youtu.be/CDdYnx8-uL8\n\n트위치에서 오버워치 생방송을 진행하고 있습니다!\n\n생방송: https://www.twitch.tv/gkqjem099\n팬카페: https://cafe.naver.com/sloth464\n이메일: skansmfqh0510@naver.com *광고 및 섭외 문의\n인스타: happysloth464 *아무거나\n\n#오버워치2 #강력한 #콤보는?!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6tNZDVwI1KY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6tNZDVwI1KY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6tNZDVwI1KY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6tNZDVwI1KY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6tNZDVwI1KY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "나무늘보",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-14T11:15:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cip6qFdosY5zuLb6Ieus0H94xkU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lnyweY0I8Us"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-09T05:08:52Z",
+        "channelId": "UCAJ-meoCh1TrPZ7La3UpPrw",
+        "title": "미쳐 날뛰는 오버워치2 딜러들 근황 ㅋㅋㅋㅋㅋ",
+        "description": "▼ 게임정보 및 빅헤드정보\n\n멤버십 가입하시면 감사합니다.\nhttps://bit.ly/2GBfExJ\n\n※연락처             : bighead033@naver.com\n※트위치방송국 : https://www.twitch.tv/bighead033\n※구독하기         : http://goo.gl/oB3WUn\n※게임제목         : \n※편집자             :\n※팬카페             : https://cafe.naver.com/bighead033",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lnyweY0I8Us/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lnyweY0I8Us/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lnyweY0I8Us/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lnyweY0I8Us/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "빅헤드",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-09T05:08:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ftlgbr2_G81JqXpnDzE1hMxv8P0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "57yyiW6bOKY"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-22T10:11:22Z",
+        "channelId": "UCXAXCxTCCYYKsLJNzEvjqfw",
+        "title": "다시는 볼 수 없는 오버워치 스킬 52가지!",
+        "description": "다시는 볼 수 없는 오버워치 스킬 52가지!\n오늘은 오버워치 추억의 스킬 영상입니다!\n다시는 볼 수 없는 궁극기: https://youtu.be/AUGylYM-JgM\n\n트위치에서 오버워치 생방송을 진행하고 있습니다!\n\n생방송: https://www.twitch.tv/gkqjem099\n팬카페: https://cafe.naver.com/sloth464\n이메일: skansmfqh0510@naver.com *광고 및 섭외 문의\n인스타: happysloth464 *아무거나\n\n#오버워치 #추억의 #스킬",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/57yyiW6bOKY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/57yyiW6bOKY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/57yyiW6bOKY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/57yyiW6bOKY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/57yyiW6bOKY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "나무늘보",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-22T10:11:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ibXniR-hV0sDNbXHQH9F85-g514",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "biGzSOAYMRg"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-09T06:42:25Z",
+        "channelId": "UCF7IBIvHZ2be4Ufo8i0uHBw",
+        "title": "그마1 수집가ㄷㄷ 폼 미쳤다",
+        "description": "[2022-11-06] 방송 /  \n그마1 계정만 4개 오늘은 본계정 달린다\n\n[문의메일]\napzks1237@gmail.com\n[트위치]\nhttps://www.twitch.tv/haksalow\n[트게더]\nhttps://tgd.kr/s/haksalow\n[인스타]\nhttps://www.instagram.com/ghyojong\n\n[집장비]\nCPU : i7-9700K \nMonitor : ASUS PG258Q (24inch 240hz) \nGraphic Card : MSI GeForce RTX 2080 SUPER 8GB \nChair : Xenics AKRACING Gaming Chair (RED) \nMouse : Logitech G903 \nKeyboard : G PRO \nMouse pad : G640 \nCam : Logitech C920\nEarphone : AZLA AZEL EDITION G\n\n이 콘텐츠는 인공지능 가상 연기자 서비스, \n타입캐스트를 활용하여 제작되었습니다.\n출연진: 미스터 변사\nhttps://typecast.ai/kr\n\n#학살 #HAKSAL #오버워치 #겐지",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/biGzSOAYMRg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/biGzSOAYMRg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/biGzSOAYMRg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/biGzSOAYMRg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/biGzSOAYMRg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "학살 HAKSAL",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-09T06:42:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kNXDsRGp5PlkfHcacz2o0hixtbg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "SDAuoj6ugko"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-13T12:44:16Z",
+        "channelId": "UCAJ-meoCh1TrPZ7La3UpPrw",
+        "title": "건버워치에서 옵치 유저라고 하면 보이는 반응",
+        "description": "▼ 게임정보 및 빅헤드정보\n\n멤버십 가입하시면 감사합니다.\nhttps://bit.ly/2GBfExJ\n\n※연락처             : bighead033@naver.com\n※트위치방송국 : https://www.twitch.tv/bighead033\n※구독하기         : http://goo.gl/oB3WUn\n※게임제목         : 건담 에볼루션\n※편집자             : 엄마계엄령\n※팬카페             : https://cafe.naver.com/bighead033",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SDAuoj6ugko/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SDAuoj6ugko/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SDAuoj6ugko/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SDAuoj6ugko/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SDAuoj6ugko/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "빅헤드",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-13T12:44:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lX47qP6ENipiUy2ghq2-fYPQ6SE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6XVssuiw1Hw"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-10T11:15:25Z",
+        "channelId": "UCbFLnCfOet-u_kFyA7uX-9Q",
+        "title": "22년 오버워치리그 최고의 순간 모음",
+        "description": "#오버워치2 #매드무비\n학교종 리믹스 : https://youtu.be/I5FxjEjEDok\n썸머 리믹스 : https://youtu.be/8rgko_ifoxw",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6XVssuiw1Hw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6XVssuiw1Hw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6XVssuiw1Hw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6XVssuiw1Hw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6XVssuiw1Hw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "아이치ichi",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-10T11:15:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gmjrycR1fz0jLRgSxZHGHdWappQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dNuMgednoM0"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-23T12:19:31Z",
+        "channelId": "UCXAXCxTCCYYKsLJNzEvjqfw",
+        "title": "오버워치2 최고의 궁극기는 무엇일까?",
+        "description": "오버워치2 최고의 궁극기는 무엇일까?\n오늘은 오버워치2 최고의 궁극기 영상입니다!\n오버워치 최고의 시네마틱은?!: https://youtu.be/s8t5JLDn1MI\n\n트위치에서 오버워치 생방송을 진행하고 있습니다!\n\n생방송: https://www.twitch.tv/gkqjem099\n팬카페: https://cafe.naver.com/sloth464\n이메일: skansmfqh0510@naver.com *광고 및 섭외 문의\n인스타: happysloth464 *아무거나\n\n#오버워치2 #최고의 #궁극기는?!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dNuMgednoM0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dNuMgednoM0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dNuMgednoM0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dNuMgednoM0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dNuMgednoM0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "나무늘보",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-23T12:19:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3SHduMX2B64YWnyQioF6GRCczNc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LkoaHAU-B7g"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-30T13:10:10Z",
+        "channelId": "UCww3MeqGQnIatVvEr3pSjhA",
+        "title": "오버워치2 최고 사기챔 소전 폐관수련 들어갑니다",
+        "description": "#오버워치2 #프로즈 \n감도 600에 6.21",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LkoaHAU-B7g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LkoaHAU-B7g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LkoaHAU-B7g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LkoaHAU-B7g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LkoaHAU-B7g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "프로즈",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-30T13:10:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "naQOuptqnWq1Vwb8IMt0lcceM5I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oHXp8pYRtFc"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-08T00:33:52Z",
+        "channelId": "UCw2zOqd6hXsny79qDki_Z4w",
+        "title": "오버워치2 초역대급 키리코 시네마틱 무조건 봐야하는 이유 ㄷㄷ..",
+        "description": "(20221008)\n삐라의 오버워치 및 종합게임 유튜브채널입니다!!\n♥삐라의 생방송(트위치) : https://www.twitch.tv/bbira\n♥생방송 공지: https://cafe.daum.net/BBIRA\n---------------------------------------------------------------------------------------------------------\n피드백영상&광고문의는 이메일으로\n이메일: yso2949@gmail.com\n\n#오버워치2 #키리코 #시네마틱",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oHXp8pYRtFc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oHXp8pYRtFc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oHXp8pYRtFc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oHXp8pYRtFc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oHXp8pYRtFc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "삐라",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-08T00:33:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "el0IaZKR65bPHFTpeFDS34B8aeU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2q3VylnH1aE"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-12T06:47:29Z",
+        "channelId": "UCXEKwWflysXu312NmIP_dlw",
+        "title": "아빠는 개 싫다",
+        "description": "#코믹숏무비 #너덜트 #반려견\n딸의 친구 반려견을 맡게된 완강한 아빠, 거부할 수 없는 강아지의 매력에 벗어나려는 츤데레 아빠의 이야기\n\n제리 역 / 제리\n인스타그램\nhttps://www.instagram.com/iamjerry_doodle\n\n딸 역 / 신민주\n인스타그램\nhttps://www.instagram.com/godminjoo\n\n아빠 역 / 전상협\n인스타그램\nhttps://www.instagram.com/j_negotiation\n\n너덜트 공식 인스타그램\nhttps://www.instagram.com/nerd_ult",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2q3VylnH1aE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2q3VylnH1aE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2q3VylnH1aE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2q3VylnH1aE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2q3VylnH1aE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "너덜트",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-12T06:47:29Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MJmmNDYTVfFPyZzXyDqrHQuVcJs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wtJx9JWrml4"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-04T23:51:20Z",
+        "channelId": "UCw2zOqd6hXsny79qDki_Z4w",
+        "title": "논란의 오버워치2 겐지 신화스킨 직접 끼고 해봤습니다 ㄷㄷ 도대체 뭐가 바뀔까?",
+        "description": "(20221005)\n삐라의 오버워치 및 종합게임 유튜브채널입니다!!\n♥삐라의 생방송(트위치) : https://www.twitch.tv/bbira\n♥생방송 공지: https://cafe.daum.net/BBIRA\n---------------------------------------------------------------------------------------------------------\n피드백영상&광고문의는 이메일으로\n이메일: yso2949@gmail.com\n\n#오버워치2 #첫날체험기 #흑우스킨",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wtJx9JWrml4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wtJx9JWrml4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wtJx9JWrml4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wtJx9JWrml4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wtJx9JWrml4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "삐라",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-04T23:51:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HUrW_s6RsVd3f0MHwiz7aD0WAzQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "W37VMronS2E"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-18T06:22:46Z",
+        "channelId": "UCYtNOIg99pgGcrE4Uo44OdQ",
+        "title": "아니 오버워치2 배치 버ㄱ.. 어라 진짜야?",
+        "description": "#오버워치2 #서새봄 #새봄추\n\n오버워치2 본격적으로 경쟁전 달려보기! (22.10.8 플레이)\nhttps://youtu.be/6IRVLoS1AwY\n\n■ 서새봄 채널 구독하기 ☞ https://goo.gl/4dH48o\n\n광고 문의 : sebom_tv@naver.com\n\n🎵Music provided by 브금대통령\n🎵Track : Retro Land - https://youtu.be/4KDrMs-NRwQ\n🎵Track : 아기염소 맘마 - https://youtu.be/bLebU_ne93M\n\n※ 서새봄 관련 링크 ※\n■ 방송국 ☞ https://www.twitch.tv/saddummy\n■ 게임 풀영상채널 ☞https://www.youtube.com/channel/UC4Bf1QwmVtSyZHmxi4gIuQw\n■ 새봄이의 게임블로그 ☞ http://blog.naver.com/saddummy\n■ 인스타그램 ☞ https://www.instagram.com/bloomsebom/\n■ 트위터 ☞ https://twitter.com/saddummy\n■ 팬카페 ☞ https://cafe.naver.com/seboming",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/W37VMronS2E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/W37VMronS2E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/W37VMronS2E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/W37VMronS2E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/W37VMronS2E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "서새봄",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-18T06:22:46Z"
+      }
+    }
+  ]
+}

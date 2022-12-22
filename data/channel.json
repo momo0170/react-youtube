@@ -1,0 +1,49 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "uQ4lzHqULFepptbTekSuv_W97is",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "15NJWELN8t-TuMOPzW8e5KDZE7Y",
+      "id": "UCdUcjkyZtf-1WJyPPiETF1g",
+      "snippet": {
+        "title": "ITSub잇섭",
+        "description": "궁금한 것은 절대 못참는 테크 크리에이터 잇섭(ITSub)입니다. \n테크에 관련된, 관심있는 것은 무엇이든 리뷰합니다\n\n#전자기기\n#IT이슈\n#자동차\n#테크\n",
+        "customUrl": "@itsub",
+        "publishedAt": "2016-08-07T10:23:41Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AMLnZu-wqNEZkaT1naa0bFTW8UJb0Rg35H5NkdjRN94ccA=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AMLnZu-wqNEZkaT1naa0bFTW8UJb0Rg35H5NkdjRN94ccA=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AMLnZu-wqNEZkaT1naa0bFTW8UJb0Rg35H5NkdjRN94ccA=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "ITSub잇섭",
+          "description": "궁금한 것은 절대 못참는 테크 크리에이터 잇섭(ITSub)입니다. \n테크에 관련된, 관심있는 것은 무엇이든 리뷰합니다\n\n#전자기기\n#IT이슈\n#자동차\n#테크\n"
+        },
+        "country": "KR"
+      },
+      "statistics": {
+        "viewCount": "831210141",
+        "subscriberCount": "2260000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "984"
+      }
+    }
+  ]
+}
